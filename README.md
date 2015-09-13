@@ -1,3 +1,1 @@
-DMRScreenshots
-
-Fit Artboard
+This is a repository of various Adobe Scripts that I've borrowed or created and found useful.  Some are still in progress.
